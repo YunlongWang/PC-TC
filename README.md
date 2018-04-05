@@ -1,7 +1,9 @@
 # PC-TC
 This is the code for an algorithm called POI Clustering with Temporal Constraints (PC-TC).
 
-PC_TC_main.m is the entry.
+This code is only tested in Matlab2017a.
+
+PC_TC_main.m is the entry script.
 
 Copyright (c) 2018, Yunlong Wang
 
